@@ -1,2 +1,2 @@
 # Wordle
-I made wordle :)
+I made wordle :) using Python and Pygame
